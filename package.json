@@ -1,0 +1,26 @@
+{
+  "name": "ushio-sms",
+  "version": "1.0.0",
+  "description": "sms for ushio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotcat/ushio-sms.git"
+  },
+  "keywords": [
+    "sms",
+    "ushio"
+  ],
+  "author": "iotcat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iotcat/ushio-sms/issues"
+  },
+  "homepage": "https://github.com/iotcat/ushio-sms#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
