@@ -21,5 +21,5 @@ var sms = (url) => {
 }
 
 
-exports.sms = sms;
+module.exports = sms;
 
